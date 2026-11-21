@@ -52,3 +52,78 @@ img{
     left: -126.5px;
     height: 250px;
 }
+h1{
+    color:rgb(8, 79, 32) ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    position: relative;
+    top: -50px;
+}
+p1{
+    color: brown;
+    font-family: cursive;
+    position: relative;
+    top: -50px;
+}
+h2{
+    color:rgb(8, 79, 32) ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    position: relative;
+    top: -50px;
+}
+p2{
+    color: brown;
+    font-family: cursive;
+    position: relative;
+     top: -60px;
+}
+h3{
+    color: rgb(8, 79, 32);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    position: relative;
+    top: -50px;
+
+}
+p3{ color: brown;
+    font-family: cursive;
+    position: relative;
+     top: -60px;
+
+}
+ul{
+    color: rgb(0, 0, 0);
+    
+}
+h4{color: rgb(8, 79, 32);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: -50px;
+
+
+}
+p4{color: brown;
+    font-family: cursive;
+    position: relative;
+     top: -60px;
+
+}
+h5{color: rgb(8, 79, 32);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    position: relative;
+    top: -50px;
+
+}
+p5{color: brown;
+    font-family: cursive;
+    position: relative;
+     top: -60px;
+
+}
+.overviewtext{
+    position: relative;
+    top: -90px;
+}
