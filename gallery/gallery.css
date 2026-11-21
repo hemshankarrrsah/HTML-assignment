@@ -1,0 +1,54 @@
+body{
+    background-color: bisque;
+}
+
+.home{
+    margin-left: 300px
+}
+a{
+    color: rgb(8, 79, 32);
+    margin-right: 130px;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: cursive;
+}
+.gallery{
+    color: rgb(92, 9, 9);
+}
+.contact{
+    margin-left: 8px;
+    margin-right: 0px;
+}
+img{
+    height: 30px;
+    margin: 5px;
+}
+
+.homeimg{
+    position: relative;
+    top: 8px;
+}
+.overviewimg{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    
+}
+.galleryimg{
+    height: 35px;
+    position: relative;
+    top: 15px;
+}
+.contactimg{
+    height: 40px;
+    position: relative;
+    top: 12px;
+    left: 10px;
+}
+
+.logoimg{
+    position: relative;
+    top: -100px;
+    left: -126.5px;
+    height: 250px;
+}
