@@ -52,3 +52,13 @@ img{
     left: -126.5px;
     height: 250px;
 }
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color: rgb(8, 79, 32);
+}
+p1{
+    color: brown;
+    font-family: cursive;
+}
+

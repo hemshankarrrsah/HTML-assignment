@@ -52,3 +52,31 @@ img{
     left: -126.5px;
     height: 250px;
 }
+.e{
+    height: 300px;
+    margin-left: -60px;
+}
+.l{
+    height: 300px;
+     margin-left: -60px;
+}
+.p{
+    height: 300px;
+     margin-left: -60px;
+}
+.f{
+    height: 300px;
+     margin-left: -60px;
+}
+.t{
+    height: 300px;
+     margin-left: -60px;
+}
+h1{ font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:  rgb(8, 79, 32);
+    text-decoration:black dotted underline;
+    position: relative;
+    left: 450px;
+    top: -250px;
+}
